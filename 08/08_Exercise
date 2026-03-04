@@ -1,0 +1,12 @@
+grades = [("alice", "math", 85), ("bob", "science", 92), ("alice", "science", 78),("charlie", "math", 90), ("bob", "math", 88), ("alice", "english", 95)]
+
+student= set()
+subject=set()
+
+for Record in grades:
+    student_name, subject_name, grade = Record   #data in grades converted to these
+    student.add(student_name)                    #sets to find unique names
+    subject.add(subject_name)
+
+print(student)
+print(subject)

@@ -1,3 +1,36 @@
-#cd to change directory
+#dont use play, use terminal
+pwd to show current lcoation
+ls or dir (add -force for secret file) to list file and folders
+cd "filename" to change directory
+one level up= cd..
+
 try to use lower capital whem putting variable in front
 no space, only _
+Create repo to add project to github
+
+#update git repo
+git add .
+git commit -m "your comment"
+git push
+
+lOGIC: 
+tRY AND EXCEPT IS A PAIR 
+IF AND ELSE IS ALSO A PAIR
+if, else if have 2 cnditions
+if, elif, else, more than 2 conditions
+= biasa, == to compare left and right (use in or)
+
+Input function untuk blehkan user kasi jawapan.
+Contoh Input("apa nama anda?")
+
+Loop
+Kalau tau value, guna for loop
+kalau taktau value, guna while loop
+
+BRCKET BERBEZA
+() ordered, not mutable and indexed
+{} not ordered, mutable, not indexed
+[] ordered, mtable, indexed
+# ordered= dah tersusun 1,2,3,4,5
+# mutable= boleh diubah2
+# indexed= boleh diaccess ikut no kedududkan
